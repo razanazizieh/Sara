@@ -206,11 +206,11 @@ const translations = {
         location_tag:
           "Case Study: Predicting Medical Insurance Charges with Linear Regression",
 
-        context_title: "Context",
+        context_title: "The Context",
         context_p:
           "Medical insurance costs are influenced by multiple demographic and lifestyle factors, making accurate cost estimation valuable for both insurers and individuals.",
 
-        objective_title: "Objective",
+        objective_title: "The Objective",
         objective_p:
           "Develop a machine learning model to predict medical insurance charges based on demographic and health-related features, while comparing a custom implementation in PyTorch with a baseline model in scikit-learn.",
 
@@ -257,11 +257,11 @@ const translations = {
         location_tag:
           "Case Study: Used Car Price Estimation with Linear Regression",
 
-        context_title: "Context",
+        context_title: "The Context",
         context_p:
           "Pricing used cars accurately is important for both buyers and sellers, yet vehicle prices depend on multiple interacting factors such as age, mileage, brand, and condition.",
 
-        objective_title: "Objective",
+        objective_title: "The Objective",
         objective_p:
           "Develop a machine learning model to predict used car prices based on vehicle characteristics, while comparing a custom implementation in PyTorch with a standard model in scikit-learn.",
 
@@ -305,11 +305,11 @@ const translations = {
           "Predicting the mood of a song using neural networks and audio features.",
         location_tag: "Case Study: Music Mood Prediction with Deep Learning",
 
-        context_title: "Context",
+        context_title: "The Context",
         context_p:
           "Music platforms increasingly rely on automated mood detection to enhance user experience. Accurately classifying the mood of a song requires understanding complex audio patterns.",
 
-        objective_title: "Objective",
+        objective_title: "The Objective",
         objective_p:
           "Develop a machine learning system that classifies songs into four moods — sad, happy, energetic, or calm — based on numerical audio features extracted from each track.",
 
@@ -354,11 +354,11 @@ const translations = {
           "Transforming sales data into actionable business insights with Power BI.",
         location_tag: "Case Study: Interactive Sales Performance Analysis",
 
-        context_title: "Context",
+        context_title: "The Context",
         context_p:
           "Retail businesses generate large volumes of data, but turning it into clear operational insights is challenging. Understanding sales trends and regional behavior is essential for profitability.",
 
-        objective_title: "Objective",
+        objective_title: "The Objective",
         objective_p:
           "Develop an interactive BI dashboard to analyze sales, profit, and shipping performance. The goal was to identify high-performing products and operational opportunities.",
 
